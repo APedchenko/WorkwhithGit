@@ -5,6 +5,7 @@ public class AplicationRunner {
 
     public static void main(String[] args) {
         someMethod("Hi! My name is Artem!");
+        someMethod("Hi, i am Judoka");
 
 
     }
